@@ -1,0 +1,6 @@
+../source/QUEUE.c:10:6:QUEUE_IsFull	16	static
+../source/QUEUE.c:20:6:QUEUE_Empty	16	static
+../source/QUEUE.c:29:10:Get_Current_Write_Idx	8	static
+../source/QUEUE.c:34:6:Increase_Write_Idx	8	static
+../source/QUEUE.c:47:10:Get_Current_Read_Idx	8	static
+../source/QUEUE.c:52:6:Increase_Read_Idx	8	static

@@ -1,0 +1,11 @@
+../source/NVHoang12.c:40:42:QUEUE_IsFull	0	static
+../source/NVHoang12.c:50:6:QUEUE_Empty	0	static
+../source/NVHoang12.c:59:46:Get_Current_Write_Idx	0	static
+../source/NVHoang12.c:65:42:Increase_Write_Idx	8	static
+../source/NVHoang12.c:78:10:Get_Current_Read_Idx	0	static
+../source/NVHoang12.c:83:6:Increase_Read_Idx	8	static
+../source/NVHoang12.c:101:6:Vector_Table	0	static
+../source/NVHoang12.c:116:10:ReadAdressSelfMain	0	static
+../source/NVHoang12.c:121:29:SetMSP	0	static
+../source/NVHoang12.c:131:6:main	304	static
+../source/NVHoang12.c:203:42:UART0_IRQHandler	24	static

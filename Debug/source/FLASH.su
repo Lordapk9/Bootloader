@@ -1,0 +1,4 @@
+../source/FLASH.c:27:6:Fls_EraseSector	0	static
+../source/FLASH.c:39:6:Fls_EraseMultiSector	16	static
+../source/FLASH.c:47:6:Fls_WriteLongWord	0	static
+../source/FLASH.c:63:6:Fls_Write	16	static

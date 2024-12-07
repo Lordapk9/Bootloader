@@ -1,0 +1,6 @@
+../source/UART.c:100:6:UART_SendChar	0	static
+../source/UART.c:108:6:UART_SendString	8	static
+../source/UART.c:48:6:SetBaurate	48	static
+../source/UART.c:25:6:UART0_Init	16	static
+../source/UART.c:119:6:UART0_Denit	0	static
+../source/UART.c:128:6:Clock_Denit	0	static
